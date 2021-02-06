@@ -1,0 +1,48 @@
+body {
+    background: rgb(100, 19, 100);
+}
+
+h1, h2 {
+    color: azure;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+div {
+    background-color: blueviolet;
+    color: blanchedalmond;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+.hide {
+    display: none;
+}
+
+button {
+    background-color: crimson;
+    border-radius: 5px;
+    color: aqua;
+    font-size: medium;
+    text-decoration: underline;
+}
+
+footer {
+    color: orange;
+    font-family: monospace;
+    font-size: small;
+    text-decoration: solid;
+}
+
+.slot_display {
+    display: flex;
+    flex-direction: row;
+    height: 50%;
+    width: auto;
+}
+
+img {
+    max-width: 33%;
+    max-height: auto;
+}
